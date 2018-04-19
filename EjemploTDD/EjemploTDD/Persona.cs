@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjemploTDD
 {
-    public class Class1
+    public class Persona
     {
     }
 }
